@@ -11,7 +11,7 @@ Voltado para pessoas que querem se posicionar no mercado como UX/UI Designer, en
 ## 💻 Desafios de Projeto
 
 1. [Criando um Wireframe de Média Fidelidade](projetos/projeto01-wireframe-media-fidelidade/)
-2. [Criando seu primeiro Design System](projetos)
+2. [Criando seu primeiro Design System](projetos/projeto02-design-system/)
 3. [Criando um Protótipo Navegável](projetos)
 4. [Implementando Todas as Etapas para a criação de um Protótipo Profissional](projetos)
 
