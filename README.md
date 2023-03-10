@@ -10,10 +10,10 @@ Voltado para pessoas que querem se posicionar no mercado como UX/UI Designer, en
 
 ## 💻 Desafios de Projeto
 
-1. [Criando um Wireframe de Média Fidelidade](projetos/projeto01-wireframe-media-fidelidade/)
-2. [Criando seu primeiro Design System](projetos/projeto02-design-system/)
-3. [Criando um Protótipo Navegável](projetos)
-4. [Implementando Todas as Etapas para a criação de um Protótipo Profissional](projetos)
+1. [x] [Criando um Wireframe de Média Fidelidade](projetos/projeto01-wireframe-media-fidelidade/)
+2. [x] [Criando seu primeiro Design System](projetos/projeto02-design-system/)
+3. [x] [Criando um Protótipo Navegável](projetos/projeto03-criando-um-prototipo-navegavel/)
+4. [ ] [Implementando Todas as Etapas para a criação de um Protótipo Profissional](projetos)
 
 ## 🗂️ Material de Apoio
 
@@ -28,4 +28,4 @@ Você pode acessar o material de apoio das aulas, como apresentações e arquivo
 
 ## 📄 Licença
 
-Este repositório está sob a licença MIT. Para mais informações, acesse [LICENCE](LICENSE).
+Este repositório está sob a licença MIT. Para mais informações, acesse [LICENSE](LICENSE).
