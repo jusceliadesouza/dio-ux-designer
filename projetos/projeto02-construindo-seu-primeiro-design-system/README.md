@@ -6,7 +6,7 @@ Desenvolver o Design System no projeto anterior.
 
 ## 📑 Projeto
 
-Continuando o projeto de um portfólio para a área de desenvolvimento. O foco, agora, é padronizar o comportamento do projeto.
+Continuando o projeto de um portfólio para a área de desenvolvimento. O foco, agora, aplicar todos os conceitos aprendido, construindo todos os componentes, guias de cores e interações do projeto.
 
 ### 📱 Wireframe
 
