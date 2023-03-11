@@ -13,7 +13,7 @@ Voltado para pessoas que querem se posicionar no mercado como UX/UI Designer, en
 1. [x] [Criando um Wireframe de Média Fidelidade](projetos/projeto01-wireframe-media-fidelidade/)
 2. [x] [Criando seu primeiro Design System](projetos/projeto02-design-system/)
 3. [x] [Criando um Protótipo Navegável](projetos/projeto03-criando-um-prototipo-navegavel/)
-4. [ ] [Implementando Todas as Etapas para a criação de um Protótipo Profissional](projetos)
+4. [x] [Implementando Todas as Etapas para a criação de um Protótipo Profissional](projetos/projeto04-implementando-todas-etapas-para-criacao/)
 
 ## 🗂️ Material de Apoio
 
@@ -24,7 +24,7 @@ Você pode acessar o material de apoio das aulas, como apresentações e arquivo
 1. [Fundamentos da Arquitetura de User Experience(UX)](materiais-complementares/fund-arquitetura-user-experience/)
 2. [Ampliando seus Conhecimentos em UX/UI Design](materiais-complementares/ampliando-seus-conhecimentos/)
 3. [Avançando com Figma na Criação de Protótipos](materiais-complementares/avancando-em-figma/)
-4. [Se tornando um(a) UX/UI Designer Completo(a)](materiais-complementares/se-tornando-um-ux-ui-designer/)
+4. [Se tornando um(a) UX/UI Designer Completo(a)](materiais-complementares/modulo04-se-tornando-um-ux-ui-designer/README.md)
 
 ## 📄 Licença
 
